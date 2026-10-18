@@ -1,0 +1,11 @@
+patient_id,patient_name,urgency,duration,date,status
+1,جلاء بنو العريج,low,1.0,04-05-2026,scheduled
+2,الدكتور ساجي الدواسر,low,2.0,11-05-2026,scheduled
+3,محمود الألجاوي,high,1.5,27-05-2026,scheduled
+4,راغب النقيب,high,4.0,06-05-2026,scheduled
+5,الأستاذ وجدي المظفر,low,3.0,05-05-2026,scheduled
+6,الأستاذة لاما بنو حنيفة,high,1.0,10-05-2026,scheduled
+7,سلطان سموم,high,4.0,23-05-2026,scheduled
+8,دانة العلمي,high,4.0,10-05-2026,scheduled
+9,السيد رجاء الداودي,low,4.0,17-05-2026,scheduled
+10,الآنسة زكية بيروتي,high,3.0,22-05-2026,scheduled
